@@ -187,3 +187,5 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/.vs/DevTest/v16/Server/sqlite3
+/.vs/DevTest/config
